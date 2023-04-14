@@ -1,8 +1,5 @@
 README  Particle Artillery
-Report CS4303- Video Games 
-20 February 2023 
-Student ID: 220026574
-
+   
 A player’s guide for the game 
 1: Click on screen to enable the screen 
 2: Enter 0 to play: Player 1 vs Player 
